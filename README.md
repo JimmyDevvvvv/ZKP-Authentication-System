@@ -110,14 +110,6 @@ This project implements a one-factor authentication system using Zero-Knowledge 
   - `server_data.json` - Stores user commitments.
   - `client_secrets.json` - Encrypted client-side secrets.
 
----
 
-## Contributors
-- **Jimmy** (Team Lead)
-- **[Add other contributors with their roles]**
 
----
-
-## License
-This project is licensed under [Your License Here].
 
